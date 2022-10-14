@@ -17,7 +17,7 @@
     <div class="carousel w-64">
     <SvgProfil
    class="carousel-item w-64"
-   v-bind="chaussure" id="profil" />
+   v-bind="chaussure" id="profil" /> 
     <SvgDessus
    class="carousel-item w-64"
    v-bind="chaussure" id="dessus" />

@@ -11,6 +11,12 @@
           <code class="font-mono">/src/pages/index.vue</code>
         </router-link>
       </li>
+      <li>
+          <router-link class="text-red-600 underline" to="/SvgFormView">
+            lien vers
+            <code class="font-mono">/src/pages/SvgFormView.vue</code>
+          </router-link>
+      </li>
     </ul>
   </nav>
 
